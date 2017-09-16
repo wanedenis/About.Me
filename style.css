@@ -1,0 +1,68 @@
+
+body{
+
+	background: #fff;
+	color: black;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 200px;
+	display: inline-block;
+}
+
+.intro>h1{
+	font-size: 64px;
+}
+
+.intro .skills{
+	background: bisque;
+	padding: 16px;
+	margin-bottom: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 2px solid white;
+}
+
+.intro .contact{
+
+padding: 16px;
+
+margin-bottom: 100px;
+
+margin-right: auto;
+
+margin-left: auto;
+
+border: 2px solid white;
+
+background: cadetblue;
+}
+
+.school{
+	
+background: darkkhaki;
+	
+padding: 16px;
+	
+margin-bottom: 100px;
+	
+margin-right: auto;
+	
+margin-left: auto;
+	
+border: 2px solid white;
+}
+
+.job{
+	
+padding: 16px;
+	
+margin-bottom: 100px;
+	
+margin-right: auto;
+	
+margin-left: auto;
+	
+border: 2px solid white;
+	
+background: tomato;
+}
